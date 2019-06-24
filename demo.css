@@ -1,6 +1,6 @@
 body{
     background-image:url("https://thumbs.gfycat.com/DisgustingGregariousCassowary-size_restricted.gif"), url("https://thumbs.gfycat.com/DisgustingGregariousCassowary-size_restricted.gif");
-    background-size:cover ; background-repeat: no-repeat;
+    background-size: cover ; background-repeat: no-repeat;
     }
     h1 {
         font-family: "Monospace", monospace;
@@ -8,15 +8,29 @@ body{
         text-align: center;
         color: orange;
       }
-      p{
+    div.op{
         font-family: 'Courier New', Courier, monospace;
         font-size: 50px;
         text-align:center ;
         color: red;
       }
-    li{
+    a{
         font-family: Georgia, 'Times New Roman', Times, serif;
         font-size: 30px;
         color: orangered;
+
+    }
+    div.gosh{
+            max-height: 100px;
+            width: 600px;
+            align-self: center;
+            
+
+    }
+    div.ap{
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 20px;
+        text-align:center ;
+        color: red;
         
     }
