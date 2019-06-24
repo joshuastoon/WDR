@@ -2,14 +2,21 @@ body{
     background-image:url("https://thumbs.gfycat.com/DisgustingGregariousCassowary-size_restricted.gif"), url("https://thumbs.gfycat.com/DisgustingGregariousCassowary-size_restricted.gif");
     background-size:cover ; background-repeat: no-repeat;
     }
-    div.a {
+    h1 {
         font-family: "Monospace", monospace;
         font-size: 100px;
         text-align: center;
+        color: orange;
       }
-      div.b{
+      p{
         font-family: 'Courier New', Courier, monospace;
-        font-size: 30px;
-        text-align:left ;
+        font-size: 50px;
+        text-align:center ;
+        color: red;
       }
+    li{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 30px;
+        color: orangered;
         
+    }
