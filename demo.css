@@ -21,10 +21,9 @@ body{
 
     }
     div.gosh{
-            max-height: 100px;
-            width: 600px;
-            align-self: center;
-            
+      text-align: center;
+      width: 300px;
+      height: 50px;
 
     }
     div.ap{
@@ -34,3 +33,6 @@ body{
         color: red;
         
     }
+
+
+  
