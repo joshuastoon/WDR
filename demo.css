@@ -2,7 +2,7 @@
     body{
       background-image: url("back.jpg"), url("back.jpg");
       background-repeat: no-repeat;
-      background-size: 100% ;
+      background-size: 100%;
     }
     h1 {
         font-family: "Monospace", monospace;
@@ -39,8 +39,8 @@
       margin-left: auto;
       margin-right: auto;
       display: block;
-      width: 300px;
-      height: 50px;
+      width: 5% 10%;
+      height: 2% 5%;
 
     }
     div.ap{
