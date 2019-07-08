@@ -69,7 +69,7 @@
     border-color: darkmagenta;
     border-width: 5px;
     background-color: gray;
-    overflow: scroll;
+    overflow: auto;
   }
  ul{
     color: blueviolet;
@@ -77,4 +77,9 @@
     border-width: 2px;
     border-style: dotted;
     padding-bottom: 10px;
+  }
+  div.debate1{
+    padding-left:1px;
+    padding-right: 500px;
+    color: red;
   }
