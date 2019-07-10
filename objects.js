@@ -6,7 +6,7 @@ let myDog = {
         console.log('woof');
     },
     describeYourself: function describeYourself(){
-        console.log("Hello, I am a" = this.breed)
+     
     }
 }
 
